@@ -1,3 +1,7 @@
+<p align="center">
+<img width="300" height="300" alt="TheDevio Logo no bg" src="https://github.com/user-attachments/assets/d186b921-ffca-4a08-aae1-a2f7b3b39d9e" />
+</p>
+
 <h1 align="center">Hey 👋, I'm Devio</h1>
 <h3 align="center">aka Lio — Vietnamese IT guy making systems behave</h3>
 
